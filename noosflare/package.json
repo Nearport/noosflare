@@ -1,7 +1,5 @@
 {
   "name": "noosflare",
-  "version": "1.0.0",
-  "description": "Noosflare - платформа для обучения в вузе",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,21 +7,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "lucide-react": "^0.263.1",
-    "sonner": "2.0.3",
-    "react-hook-form": "7.55.0",
-    "clsx": "^2.0.0",
-    "tailwind-merge": "^2.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
   },
   "devDependencies": {
-    "@types/react": "^18.3.1",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.4",
-    "typescript": "^5.6.3",
-    "vite": "^6.0.1",
-    "@tailwindcss/vite": "^3.0.0",
-    "tailwindcss": "^3.4.0"
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
   }
 }
